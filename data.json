@@ -16,12 +16,21 @@
     ],
     [
       "",
-      "",
-      "",
+      "第2ハイム",
+      "https://dai2heim.github.io/disastermap/dai2heim.jpg",
       "35.557525",
       "139.633389",
       "日吉第2ハイム",
       "日吉第2ハイム"
+    ],
+    [
+      "",
+      "避難場所",
+      "https://dai2heim.github.io/disastermap/shimoda-school.jpg",
+      "35.557492",
+      "139.630025",
+      "下田小学校",
+      "地域防災拠点(震災時避難場所)"
     ]
   ]
 }
