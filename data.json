@@ -54,10 +54,24 @@
       "",
       "災害拠点病院",
       "https://dai2heim.github.io/disastermap/tokyo-ikadaigaku.jpg",
-      "",
-      "",
+      "35.5770064",
+      "139.6612413",
       "東京医科大学武蔵小杉病院",
       "災害拠点病院の東京医科大学武蔵小杉病院です。"
+    ],
+    [
+      "",
+      "災害時給水ステーション",
+      "https://dai2heim.github.io/disastermap/shimoda-school.jpg",
+      "35.557492",
+      "139.630025",
+      "下田小学校",
+      "下田小学校内に災害時給水ステーションがあります。"
+    ],
+    [
+      "",
+      "災害時給水ステーション",
+      "https://dai2heim.github.io/disastermap/hiyoshidai-nishi.jpg"
     ]
   ]
 }
