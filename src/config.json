@@ -2,7 +2,7 @@
   "title": "日吉第2ハイム災害時お役立ちマップ",
   "description": "日吉第2ハイムにお住いの皆様に災害時の避難場所や給水所などの場所をお知らせするマップです。",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
+  "logo_image_url": "https://dai2heim.github.io/disastermap/heim-logo.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e"
 }
