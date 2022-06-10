@@ -26,7 +26,7 @@
     [
       "",
       "避難場所",
-      "",
+      "https://dai2heim.github.io/disastermap/shimoda-school.jpg",
       "35.557492",
       "139.630025",
       "下田小学校",
@@ -35,11 +35,20 @@
     [
       "",
       "災害拠点病院",
-      "",
+      "https://dai2heim.github.io/disastermap/yokohama-rousai.jpg",
       "35.5075691",
       "139.6141172",
       "横浜労災病院",
       "災害拠点病院の横浜労災病院です。"
+    ],
+    [
+      "",
+      "災害拠点病院",
+      "https://dai2heim.github.io/disastermap/kanto-rousai.jpg",
+      "35.5647294",
+      "139.6601902",
+      "関東労災病院",
+      "災害拠点病院の関東労災病院です。"
     ]
   ]
 }
