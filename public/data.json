@@ -1,7 +1,99 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "",
+      "第2ハイム",
+      "https://dai2heim.github.io/disastermap/dai2heim.jpg",
+      "35.557525",
+      "139.633389",
+      "日吉第2ハイム",
+      "日吉第2ハイム"
+    ],
+    [
+      "",
+      "避難場所",
+      "https://dai2heim.github.io/disastermap/shimoda-school.jpg",
+      "35.55747683",
+      "139.6299482",
+      "下田小学校",
+      "地域防災拠点(震災時避難場所)"
+    ],
+    [
+      "",
+      "災害拠点病院",
+      "https://dai2heim.github.io/disastermap/yokohama-rousai.jpg",
+      "35.51102481",
+      "139.6108595",
+      "横浜労災病院",
+      "災害拠点病院の横浜労災病院です。"
+    ],
+    [
+      "",
+      "災害拠点病院",
+      "https://dai2heim.github.io/disastermap/kanto-rosai.jpg",
+      "35.56793823",
+      "139.657576",
+      "関東労災病院",
+      "災害拠点病院の関東労災病院です。"
+    ],
+    [
+      "",
+      "災害拠点病院",
+      "https://dai2heim.github.io/disastermap/tokyo-ikadaigaku .jpg",
+      "35.58060498",
+      "139.6582092",
+      "東京医科大学武蔵小杉病院",
+      "災害拠点病院の東京医科大学武蔵小杉病院です。"
+    ],
+    [
+      "",
+      "災害時給水ステーション",
+      "https://dai2heim.github.io/disastermap/shimoda-school.jpg",
+      "35.55737638",
+      "139.6296785",
+      "下田小学校",
+      "下田小学校内に災害時給水ステーションがあります。"
+    ],
+    [
+      "",
+      "災害時給水ステーション",
+      "https://dai2heim.github.io/disastermap/hiyosidai-nishi.jpg",
+      "35.55140742",
+      "139.6271128",
+      "日吉台西中学校",
+      "日吉台西中学校内に災害時給水ステーションがあります。"
+    ],
+    [
+      "",
+      "災害時給水ステーション",
+      "https://dai2heim.github.io/disastermap/keio-rugby.jpg",
+      "35.55540784",
+      "139.6376953",
+      "慶応大学ラグビー場",
+      "慶応大学ラグビー場内に災害時給水ステーションがあります。"
+    ],
+    [
+      "",
+      "災害時給水ステーション",
+      "https://dai2heim.github.io/disastermap/hiyoshidai-schlool.jpg",
+      "35.55284059",
+      "139.6435444",
+      "日吉台小学校",
+      "日吉台小学校内に災害時給水ステーションがあります。"
+    ]
+  ]
 }
